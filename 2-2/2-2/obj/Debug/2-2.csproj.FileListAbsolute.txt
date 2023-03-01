@@ -1,0 +1,8 @@
+D:\Lovigina\2-2\2-2\obj\Debug\2-2.csproj.AssemblyReference.cache
+D:\Lovigina\2-2\2-2\obj\Debug\2-2.csproj.SuggestedBindingRedirects.cache
+D:\Lovigina\2-2\2-2\obj\Debug\2-2.csproj.CoreCompileInputs.cache
+D:\Lovigina\2-2\2-2\bin\Debug\2-2.exe.config
+D:\Lovigina\2-2\2-2\bin\Debug\2-2.exe
+D:\Lovigina\2-2\2-2\bin\Debug\2-2.pdb
+D:\Lovigina\2-2\2-2\obj\Debug\2-2.exe
+D:\Lovigina\2-2\2-2\obj\Debug\2-2.pdb
